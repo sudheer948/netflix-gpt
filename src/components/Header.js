@@ -60,7 +60,7 @@ const Header = () => {
   };
 
   return (
-    <div className="absolute w-screen bg-gradient-to-b from-black/80 p-2 z-10 flex justify-between h-20 items-center">
+    <div className="absolute w-screen bg-gradient-to-b from-black/80 p-2 z-10 flex flex-col md:flex-row justify-between items-center">
       <img
         className="h-20  object-cover cursor-pointer"
         src={LOGO}
