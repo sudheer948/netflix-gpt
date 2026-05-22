@@ -6,8 +6,7 @@ A production-style Netflix-inspired movie streaming and recommendation platform 
 
 ## 🚀 Live Demo
 
-🔗 Add Your Live Link Here
-🔗 Add Your GitHub Repository Link Here
+https://netflixgpt-7ad63.web.app/browse
 
 ---
 
@@ -95,65 +94,6 @@ Example:
 * Performance Optimization
 * Responsive UI Development
 * Scalable React Application Structure
-
----
-
-# 📸 Screenshots
-
-## 🏠 Homepage
-
-Add Screenshot Here
-
-## 🤖 AI Search
-
-Add Screenshot Here
-
-## 🎬 Movie Browsing
-
-Add Screenshot Here
-
----
-
-# ⚙️ Installation & Setup
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone YOUR_GITHUB_REPO_LINK
-```
-
----
-
-## 2️⃣ Navigate To Project
-
-```bash
-cd your-project-name
-```
-
----
-
-## 3️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
----
-
-## 4️⃣ Create `.env` File
-
-```env
-REACT_APP_TMDB_KEY=your_tmdb_api_key
-REACT_APP_GROQ_KEY=your_groq_api_key
-```
-
----
-
-## 5️⃣ Start Development Server
-
-```bash
-npm start
-```
 
 ---
 
