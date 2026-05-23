@@ -5,7 +5,6 @@ import Login from "./Login";
 import { useEffect } from "react";
 
 const Body = () => {
-
   const appRouter = createBrowserRouter([
     {
       path: "/",

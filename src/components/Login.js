@@ -84,7 +84,7 @@ const Login = () => {
         .catch((error) => {
           const errorCode = error.code;
           const errorMessage = error.message;
-          setErrorMessage(errorCode + "-1234" + errorMessage);
+          setErrorMessage(errorCode + " - " + errorMessage);
         });
     }
   };
